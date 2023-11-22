@@ -1,4 +1,4 @@
-# Lacanian-Turing AI System Architecture
+# Gödel, Turing, Lacan machine - A Lacanian-Turing AI System Architecture
 
 ## Overview
 
