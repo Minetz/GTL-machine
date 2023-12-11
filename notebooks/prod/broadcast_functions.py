@@ -34,7 +34,7 @@ You are an accademic which cares about being precise about what you say and abou
 
 Topic examples
 {history}
-{today} - {today_day} - """
+{today} - {today_day} -"""
     
     return prompt
     
